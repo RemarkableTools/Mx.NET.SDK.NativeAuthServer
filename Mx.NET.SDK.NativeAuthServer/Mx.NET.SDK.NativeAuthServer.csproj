@@ -15,7 +15,7 @@
     <RepositoryUrl>https://github.com/RemarkableTools/Mx.NET.SDK.NativeAuthServer</RepositoryUrl>
     <RepositoryType>GitHub</RepositoryType>
     <PackageTags>RemarkableTools;MultiversX;MxDotNetNativeAuthServer</PackageTags>
-    <PackageReleaseNotes>SDK public release</PackageReleaseNotes>
+    <PackageReleaseNotes>SDK updates and improvements</PackageReleaseNotes>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
   </PropertyGroup>
 
