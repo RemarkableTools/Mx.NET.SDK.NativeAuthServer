@@ -1,4 +1,6 @@
-﻿namespace Mx.NET.SDK.NativeAuthServer.Entities
+﻿using System;
+
+namespace Mx.NET.SDK.NativeAuthServer.Entities
 {
     public class NativeAuthServerConfig
     {

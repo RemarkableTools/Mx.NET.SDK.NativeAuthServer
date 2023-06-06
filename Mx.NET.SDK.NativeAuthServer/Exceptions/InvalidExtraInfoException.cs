@@ -1,4 +1,5 @@
-﻿namespace Mx.NET.SDK.NativeAuthServer.Exceptions
+﻿using System;
+namespace Mx.NET.SDK.NativeAuthServer.Exceptions
 {
     public class InvalidExtraInfoException : Exception
     {

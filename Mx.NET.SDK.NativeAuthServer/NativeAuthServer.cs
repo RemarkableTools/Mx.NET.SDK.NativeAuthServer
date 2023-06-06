@@ -1,6 +1,8 @@
 ﻿using Mx.NET.SDK.NativeAuthServer.Entities;
 using Mx.NET.SDK.NativeAuthServer.Exceptions;
 using Mx.NET.SDK.NativeAuthServer.Services;
+using System;
+using System.Linq;
 
 namespace Mx.NET.SDK.NativeAuthServer
 {

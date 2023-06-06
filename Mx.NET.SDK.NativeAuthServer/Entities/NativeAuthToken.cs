@@ -1,6 +1,7 @@
 ﻿using Mx.NET.SDK.NativeAuthServer.Data;
 using Mx.NET.SDK.NativeAuthServer.Exceptions;
 using Newtonsoft.Json;
+using System;
 using System.Text;
 
 namespace Mx.NET.SDK.NativeAuthServer.Entities
