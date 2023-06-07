@@ -19,7 +19,8 @@ namespace Mx.NET.SDK.NativeAuthServer
             var nativeToken = new NativeAuthToken(accessToken);
 
             if (_config.AcceptedOrigins.Any()
-                && (!_config.AcceptedOrigins.Contains(nativeToken.Body.Origin) || !_config.AcceptedOrigins.Contains($"https://{nativeToken.Body.Origin}")))
+                && !_config.AcceptedOrigins.Contains(nativeToken.Body.Origin)
+                && !_config.AcceptedOrigins.Contains($"https://{nativeToken.Body.Origin}"))
             {
                 throw new InvalidOriginException();
             }
