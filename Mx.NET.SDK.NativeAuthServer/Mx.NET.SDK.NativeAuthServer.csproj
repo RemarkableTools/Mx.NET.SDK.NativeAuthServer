@@ -5,7 +5,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageId>RemarkableTools.Mx.NativeAuthServer</PackageId>
     <Title>RemarkableTools.Mx.NativeAuthServer</Title>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <Authors>Remarkable Tools</Authors>
     <Company>Remarkable Tools</Company>
     <Description>⚡ MultiversX .NET NativeAuth Server SDK: Library for validating native login Token for server app</Description>
@@ -36,7 +36,7 @@
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-    <PackageReference Include="RemarkableTools.Mx.Wallet" Version="1.0.1" />
+    <PackageReference Include="RemarkableTools.Mx.Wallet" Version="2.0.0" />
   </ItemGroup>
 
 </Project>
