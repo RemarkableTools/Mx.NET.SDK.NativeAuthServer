@@ -11,7 +11,7 @@ The content is delivered via nuget packages:
 ## Compatibility
 - [NativeAuthClient](https://www.nuget.org/packages/RemarkableTools.Mx.NativeAuthClient/)
 - xPortal Hub
-_*Note: The validation is a bit changed from the original [MultiversX NativeAuthServer](https://github.com/multiversx/mx-sdk-js-native-auth-server). In this SDK the ExtraInfo is mandatory and is containing the valid timestamp for the block_
+##### _*Note: The validation is a bit changed from the original [MultiversX NativeAuthServer](https://github.com/multiversx/mx-sdk-js-native-auth-server). In this SDK the ExtraInfo is mandatory and is containing the valid timestamp for the block_
 
 ## Quick start guide
 ### Basic example
