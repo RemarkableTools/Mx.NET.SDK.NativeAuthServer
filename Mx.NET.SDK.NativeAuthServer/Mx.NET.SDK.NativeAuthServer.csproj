@@ -1,11 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0;netcoreapp3.1;net461;net47;net5.0;net6.0;net7.0</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0;netcoreapp3.1;net461;net47;net5.0;net6.0;net7.0;net8.0</TargetFrameworks>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageId>RemarkableTools.Mx.NativeAuthServer</PackageId>
     <Title>RemarkableTools.Mx.NativeAuthServer</Title>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
     <Authors>Remarkable Tools</Authors>
     <Company>Remarkable Tools</Company>
     <Description>⚡ MultiversX .NET NativeAuth Server SDK: Library for validating native login Token for server app</Description>
